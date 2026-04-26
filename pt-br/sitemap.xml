@@ -10,6 +10,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de-de/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-gb"
                 href="http://localhost:1313/"
                 />
@@ -30,11 +35,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de-de/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/it/"
                 />
@@ -45,11 +45,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr-fr/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -77,6 +72,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr-fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/it/categories/"
                 />
@@ -87,6 +87,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de-de/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -111,11 +116,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de-de/tags/"
                 />
     <xhtml:link
                 rel="alternate"

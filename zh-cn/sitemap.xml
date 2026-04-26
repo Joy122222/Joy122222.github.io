@@ -6,6 +6,11 @@
     <lastmod>2026-04-26T17:45:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de-de/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-gb"
                 href="http://localhost:1313/"
                 />
@@ -31,11 +36,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de-de/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/it/"
                 />
@@ -52,16 +52,6 @@
     <lastmod>2026-04-26T17:45:18+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/zh-cn/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru-ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de-de/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -84,6 +74,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru-ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de-de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/it/categories/"
                 />
@@ -94,16 +94,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
@@ -123,6 +113,16 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr-fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"

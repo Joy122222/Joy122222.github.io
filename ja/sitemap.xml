@@ -10,16 +10,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de-de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr-fr/"
                 />
@@ -35,6 +25,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de-de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/it/"
                 />
@@ -45,21 +45,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ja/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru-ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de-de/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
@@ -77,6 +62,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru-ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de-de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/it/categories/"
                 />
@@ -87,11 +87,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ja/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -116,6 +111,11 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="http://localhost:1313/ru-ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
